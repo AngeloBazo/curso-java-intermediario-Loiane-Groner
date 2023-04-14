@@ -46,11 +46,10 @@ public class Aula90Locale {
 
 		System.out.println(nf2.format(500000000000d));
 
-		
 		NumberFormat nf3 = NumberFormat.getCurrencyInstance(Locale.ITALY);
 
 		System.out.println(nf3.format(500000000000d));
-		
+
 	}
 
 }
