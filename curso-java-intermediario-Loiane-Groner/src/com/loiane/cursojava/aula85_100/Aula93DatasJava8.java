@@ -44,7 +44,6 @@ public class Aula93DatasJava8 {
 		System.out.println(agoraCompleto.getNano());
 		System.out.println(agoraCompleto.getChronology());
 
-		// zone
 
 		
 
